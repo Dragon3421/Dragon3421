@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dragon3421
 - 👀 and i am a high school student wanted to explore the internet 
-- 🌱 I’m currently learning python,html,css 
+- 🌱 I’m currently started learning python,html,css 
 - 
 -
 
